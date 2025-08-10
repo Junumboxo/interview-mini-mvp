@@ -5,3 +5,5 @@ A few things that could be improved:
 - Tests, of course :D
 - Rate-limiting for the /auth/login endpoint
 - Improving the mock message generator by loading existing users as well and making sure that one user only sends messages in one message
+
+![Demo](demo.gif)
